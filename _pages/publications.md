@@ -4,7 +4,7 @@ layout: single
 permalink: /publications/
 ---
 
-For the latest publications list, please check [Google Scholar](https://scholar.google.com/citations?user=7BdjDuwAAAAJ).
+For the latest publications list, please check [Google Scholar](https://scholar.google.com/citations?user=Trw76bsAAAAJ&hl=en).
 
 ## Journal Publications
 
