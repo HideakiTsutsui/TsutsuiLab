@@ -11,7 +11,8 @@ For the latest publications list, please check [Google Scholar](https://scholar.
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
 {% assign count = pubs | size %}
 
-<ol reversed>
+<!-- <ol reversed> -->
+<ol>
 {% for pub in pubs %}
   <li>
     {{ pub.authors }} ({{ pub.year }}). {{ pub.title }}. <i><strong>{{ pub.venue }}</strong></i>. {{ pub.volume }} {{ pub.page }}.
