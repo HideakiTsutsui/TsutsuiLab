@@ -11,7 +11,7 @@ For the latest publications list, please check [Google Scholar](https://scholar.
 {% assign pubs = site.data.publications | sort: "year" | reverse %}
 {% assign count = pubs | size %}
 
-<!-- <ol reversed> -->
+[//]: # "Use this for a reversed list <ol reversed>"
 <ol>
 {% for pub in pubs %}
   <li>
