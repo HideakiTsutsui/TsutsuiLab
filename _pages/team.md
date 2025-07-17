@@ -48,6 +48,9 @@ permalink: /team/
       {% if member.cv %}
         📄 <a href="{{ member.cv }}" target="_blank">CV</a><br>
       {% endif %}
+      {% if member.scholar %}
+        🔗 <a href="{{ member.scholar }}" target="_blank">Google Scholar</a><br>
+      {% endif %}
       {{ member.bio }}
     </div>
   </div>
