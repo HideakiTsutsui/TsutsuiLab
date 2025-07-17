@@ -52,10 +52,7 @@ permalink: /team/
         🔗 <a href="{{ member.scholar }}" target="_blank">Google Scholar</a><br>
       {% endif %}
       {% if member.scholar %}
-        <a href="{{ member.scholar }}" target="_blank" style="text-decoration: none;">
-          <span style="color: #4285F4; font-weight: bold; font-size: 1.1em;">g</span>
-          <span style="margin-left: 0.2em;">Google Scholar</span>
-        </a><br>
+        🅖 <a href="{{ member.scholar }}" target="_blank">Google Scholar</a><br>
       {% endif %}
       {{ member.bio }}
     </div>
