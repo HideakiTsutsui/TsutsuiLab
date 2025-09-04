@@ -1,3 +1,4 @@
+# PI
 - name: Hideaki Tsutsui
   role: Principal Investigator
   image: ../assets/images/team/HideakiTsutsui.jpg
@@ -9,6 +10,8 @@
   scholar: https://scholar.google.com/citations?user=Trw76bsAAAAJ&hl=en
   bio: "Hideaki is a Professor in the Department of Mechanical Engineering at the University of California, Riverside. He is also a participating faculty member in the Bioengineering Interdepartmental Graduate (BIG) Program and the UCR Stem Cell Center. He received his B.E. from the University of Tokyo (2001), M.S. from the University of California, San Diego (2003), and Ph.D. from the University of California, Los Angeles (2009), all in Mechanical Engineering. He conducted postdoctoral research from 2009 to 2011 at the Center for Cell Control and the Mechanical and Aerospace Engineering Department at UCLA. His current research interests include biosensors and microfluidic tools for agricultural and medical disease diagnostics. He is a recipient of a Grand Challenges Explorations Phase I Award from the Bill & Melinda Gates Foundation (2012) and a Faculty Early Career Development Program (CAREER) Award from the National Science Foundation (2017). In 2018, he was named to the Class of Influential Researchers by <em>Industrial & Engineering Chemistry Research</em>. He currently serves on the editorial board of <em>SLAS Technology</em>."
 
+# Postdocs
+
 - name: Brent Kalish
   role: Postdoctoral Scholar
   image: ../assets/images/team/BrentKalish.jpg
@@ -19,6 +22,18 @@
   year_left: 
   cv:  
   bio: "Add your bio"
+
+- name: Daniel Nampe
+  role: Postdoctoral Scholar
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: alumni
+  position: postdoc
+  year_joined: 2017
+  year_left: 2017
+  bio: "Add your bio"
+  
+# Graduate Students
 
 - name: John Doe
   role: Ph.D. Student
@@ -113,16 +128,6 @@
   bio: "Add your bio"
 
 - name: Daniel Nampe
-  role: Postdoctoral Scholar
-  image: ../assets/images/team/placeholder.jpg
-  email: 
-  status: alumni
-  position: postdoc
-  year_joined: 2017
-  year_left: 2017
-  bio: "Add your bio"
-
-- name: Daniel Nampe
   role: Ph.D. BIEN
   image: ../assets/images/team/placeholder.jpg
   email: 
@@ -161,6 +166,8 @@
   year_joined: 2013
   year_left: 2016
   bio: "Add your bio"
+
+# Undergrads
 
 - name: John Yoo
   role: BS BIEN
@@ -391,6 +398,18 @@
   year_joined: 2023
   year_left: 2024
   bio: "Add your bio"
+
+- name: Makrum Shanti
+  role: BS ME
+  image: ../assets/images/team/placeholder.jpg
+  email: 
+  status: current
+  position: undergrad
+  year_joined: 2025
+  year_left: 
+  bio: "Makrum is a senior ME student."
+  
+# Visitors
 
 - name: Sean Connolly
   role: CIRM Bridges Intern, California State University San Bernardino
