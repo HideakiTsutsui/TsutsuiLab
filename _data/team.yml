@@ -401,7 +401,7 @@
 
 - name: Makrum Shanti
   role: BS ME
-  image: ../assets/images/team/placeholder.jpg
+  image: ../assets/images/team/MakrumShanti.jpg
   email: 
   status: current
   position: undergrad
