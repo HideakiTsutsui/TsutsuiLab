@@ -35,7 +35,7 @@
   
 # Graduate Students
 
-- name: John Doe
+- name: Truong Dang
   role: Ph.D. Student
   image: ../assets/images/team/placeholder.jpg
   email: 
@@ -46,7 +46,7 @@
   cv:  
   bio: "Add your bio"
 
-- name: Jane Doe
+- name: John Doe
   role: Ph.D. Student
   image: ../assets/images/team/placeholder.jpg
   email: 
