@@ -8,7 +8,7 @@ For the latest publications list, please check [Google Scholar](https://scholar.
 
 ## Journal Publications
 
-{% assign pubs = site.data.publications | sort: "year" | reverse %}
+{% assign pubs = site.data.publications | sort: "date" | reverse %}
 {% assign count = pubs | size %}
 
 [//]: # "Use this for a reversed list <ol reversed>"
