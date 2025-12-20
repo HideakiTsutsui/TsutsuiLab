@@ -2,6 +2,8 @@
   authors: "B Rallabandi, S Modha, B Kalish, H Tsutsui"
   venue: "Langmuir"
   year: "2025"
+  month: 12
+  date: "2025-12-17"
   volume: "" 
   page: ""
   doi: "10.1021/acs.langmuir.5c04278"
@@ -11,6 +13,8 @@
   authors: "CW Liu, B Kalish, S Bodaghi, G Vidalakis, H Tsutsui"
   venue: "Advances in Sample Preparation"
   year: "2025"
+  month: 7
+  date: "2025-7-10"
   volume: "15" 
   page: "100199"
   doi: "10.1016/j.sampre.2025.100199"
@@ -19,7 +23,9 @@
 - title: "Rapid colorimetric detection of citrus tristeza virus combining portable sample preparation and reverse transcription-loop mediated isothermal amplification"
   authors: "CW Liu, S Bodaghi, ML Keremane, B Kalish, G Vidalakis, H Tsutsui"
   venue: "bioRxiv"
-  year: "2025"
+  year: "2026"
+  month: 0
+  date: "2026-01-01"
   volume: "" 
   page: ""
   doi: "10.1101/2024.11.09.622765"
@@ -29,16 +35,19 @@
   authors: "CW Liu, S Bodaghi, G Vidalakis, H Tsutsui"
   venue: "Chemosensors"
   year: "2024"
+  month: 6
+  date: "2024-06-08"
   volume: "12(6)" 
   page: "105"
   doi: "10.3390/chemosensors12060105"
   url: "https://doi.10.3390/chemosensors12060105"
 
-
 - title: "Sample–to-answer sensing technologies for nucleic acid preparation and detection in the field"
   authors: "CW Liu, H Tsutsui"
   venue: "SLAS technology"
   year: "2023"
+  month: 6
+  date: "2023-06-09"
   volume: "28(5)"
   page: "302-323"
   doi: "10.1016/j.slast.2023.06.002"
@@ -48,6 +57,8 @@
   authors: "S Modha, Y Shen, H Chamouni, A Mulchandani, H Tsutsui"
   venue: "Biosensors and Bioelectronics"
   year: "2021"
+  month: 2
+  date: "2021-02-19"
   volume: "180"
   page: "113090"
   doi: "10.1016/j.bios.2021.113090"
@@ -57,6 +68,8 @@
   authors: "J Roper, J Garcia, H Tsutsui"
   venue: "ACS Omega"
   year: "2021"
+  month: 2
+  date: "2021-02-12"
   volume: "6(8)"
   page: "5101–5107"
   doi: "10.1021/acsomega.0c05850"
@@ -66,6 +79,8 @@
   authors: "S Modha, C Castro, H Tsutsui"
   venue: "Biosensors and Bioelectronics"
   year: "2021"
+  month: 1
+  date: "2021-01-23"
   volume: "178"
   page: "113026"
   doi: "10.1016/j.bios.2021.113026"
@@ -75,6 +90,8 @@
   authors: "Y Shen, S Modha, H Tsutsui, A Mulchandani"
   venue: "Biosensors and Bioelectronics"
   year: "2021"
+  month: 1
+  date: "2020-10-12"
   volume: "171"
   page: "112721"
   doi: "10.1016/j.bios.2020.112721"
@@ -84,6 +101,8 @@
   authors: "B Kalish, MK Tan, H Tsutsui"
   venue: "Micromachines"
   year: "2020"
+  month: 1
+  date: "2020-08-14"
   volume: "11" 
   issue: "8"
   page: "773"
@@ -94,6 +113,8 @@
   authors: "M Ghasemian, C Layton, D Nampe, NI zur Nieden, H Tsutsui, M Princevac"
   venue: "Biochemical Engineering Journal"
   year: "2020"
+  month: 2
+  date: "2020-02-09"
   volume: "157" 
   page: "107533"
   doi: "10.1016/j.bej.2020.107533"
@@ -103,6 +124,8 @@
   authors: "HG Dixit, R Starr, ML Dundon, PI Pairs, X Yang, Y Zhang, D Nampe, CB Ballas, H Tsutsui, SJ Forman, CE Brown, MP Rao"
   venue: "Nano Letters"
   year: "2020"
+  month: 10
+  date: "2019-10-24"
   volume: "20(2)" 
   page: "860-867"
   doi: "10.1021/acs.nanolett.9b03175"
@@ -112,6 +135,8 @@
   authors: "H Tsutsui, PB Lillehoj"
   venue: "SLAS Technology"
   year: "2020"
+  month: 1
+  date: "2020-01-01"
   volume: "25(1)" 
   page: "6-8"
   doi: "10.1177/2472630319896762"
@@ -121,6 +146,8 @@
   authors: "B Kalish, J Zhang, H Edema, J Luong, J Roper, C Beaudette, R Echodu, H Tsutsui"
   venue: "SLAS Technology"
   year: "2020"
+  month: 10
+  date: "2019-10-17"
   volume: "25(1)" 
   page: "58-66"
   doi: "10.1177/2472630319887680"
@@ -130,6 +157,8 @@
   authors: "Y Shen, TT Thien, S Modha, H Tsutsui, A Mulchandani"
   venue: "Biosensors and Bioelectronics"
   year: "2019"
+  month: 9
+  date: "2018-09-13"
   volume: "130" 
   page: "367-373"
   doi: "10.1016/j.bios.2018.09.041"
@@ -139,6 +168,8 @@
   authors: "RA Peck, E Bahena, R Jahan, G Aguilar, H Tsutsui, M Princevac, MM Wilhelmus, MP Rao"
   venue: "Journal of Visualized Experiments"
   year: "2018"
+  month: 9
+  date: "2018-09-13"
   volume: "142" 
   page: "e58902"
   doi: "10.3791/58902"
@@ -148,6 +179,8 @@
   authors: "JT Wen, JM Roper, H Tsutsui"
   venue: "Industrical and Engineering Chemistry Research"
   year: "2018"
+  month: 6
+  date: "2018-06-20"
   volume: "57(28)" 
   page: "9037-9053"
   doi: "10.1021/acs.iecr.8b00848"
@@ -157,6 +190,8 @@
   authors: "D Nampe, R Joshi, K Keller, N zur Nieden, H Tsutsui"
   venue: "Biotechnology and Bioengineering"
   year: "2017"
+  month: 5
+  date: "2017-05-08"
   volume: "114(9)" 
   page: "2109-2120"
   doi: "10.1002/bit.26334"
@@ -166,6 +201,8 @@
   authors: "C Castro, C Rosillo, H Tsutsui"
   venue: "Microfluidics and Nanofluidics"
   year: "2017"
+  month: 2
+  date: "2017-02-02"
   volume: "21" 
   page: "21"
   doi: "10.1007/s10404-017-1860-4"
@@ -175,6 +212,8 @@
   authors: "J Wen, P Viravathana, B Ingel, C Roper, H Tsutsui"
   venue: "SLAS Technology"
   year: "2017"
+  month: 1
+  date: "2017-01-01"
   volume: "22(4)" 
   page: "406-412"
   doi: "10.1177/2472630316689286"
@@ -183,7 +222,9 @@
 - title: "Polydiacetylene-coated polyvinylidene fluoride strip aptasensor for colorimetric detection of zinc(II)"
   authors: "J Wen, K Bohorquez, H Tsutsui"
   venue: "Sensors and Actuators B: Chemical"
-  year: "2017"
+  year: "2016"
+  month: 3
+  date: "2016-03-28"
   volume: "232" 
   page: "313-317"
   doi: "10.1016/j.snb.2016.03.118"
@@ -193,6 +234,8 @@
   authors: "B Kalish, H Tsutsui"
   venue: "Journal of Visualized Experiments"
   year: "2016"
+  month: 4
+  date: "2016-04-01"
   volume: "110" 
   page: "e53805"
   doi: "10.3791/53805"
@@ -202,6 +245,8 @@
   authors: "J Wen, C Castro, H Tsutsui"
   venue: "Journal of Laboratory Automation"
   year: "2015"
+  month: 9
+  date: "2014-09-30"
   volume: "20(4)" 
   page: "500-505"
   doi: "10.1177/2211068214551826"
@@ -211,6 +256,8 @@
   authors: "B Kalish, H Tsutsui"
   venue: "Lab on a Chip"
   year: "2014"
+  month: 9
+  date: "2014-09-04"
   volume: "14" 
   page: "4354-4361"
   doi: "10.1039/C4LC00730A"
@@ -220,6 +267,8 @@
   authors: "D Nampe, H Tsutsui"
   venue: "Journal of Laboratory Automation"
   year: "2013"
+  month: 9
+  date: "2013-09-23"
   volume: "18(6)" 
   page: "482-493"
   doi: "10.1177/2211068213503156"
@@ -229,6 +278,8 @@
   authors: "EPY Chiou, H Tsutsui"
   venue: "Journal of Laboratory Automation"
   year: "2013"
+  month: 1
+  date: "2013-01-01"
   volume: "18(6)" 
   page: "425-426"
   doi: "10.1177/2211068213505834"
@@ -238,7 +289,9 @@
   authors: "B Valamehr, H Tsutsui, CM Ho, H Wu"
   venue: "Regenerative Medicine"
   year: "2011"
-  volume: "6" 
+  volume: "6"
+  month: 9
+  date: "2011-09-14"
   page: "623-634"
   doi: "10.2217/rme.11.54"
   url: "https://doi.10.2217/rme.11.54"
@@ -247,6 +300,8 @@
   authors: "H Tsutsui, B Valamehr, A Hindoyan, R Qiao, X Ding, S Guo, ON Witte, X Liu, CM Ho, H Wu"
   venue: "Nature Communications"
   year: "2011"
+  month: 1
+  date: "2011-01-25"
   volume: "2" 
   page: "167"
   doi: "10.1038/ncomms1165"
@@ -256,6 +311,8 @@
   authors: "H Tsutsui, E Yu, S Marquina, B Valamehr, I Wong, H Wu, CM Ho"
   venue: "Annals of Biomedical Engineering"
   year: "2010"
+  month: 7
+  date: "2010-07-08"
   volume: "38" 
   page: "3777-3788"
   doi: "10.1007/s10439-010-0108-1"
@@ -265,6 +322,8 @@
   authors: "PB Lillehoj, H Tsutsui, B Valamehr, H Wu, CM Ho"
   venue: "Lab on a Chip"
   year: "2010"
+  month: 4
+  date: "2010-04-07"
   volume: "10" 
   page: "1678-1682"
   doi: "10.1039/C000163E"
@@ -274,6 +333,8 @@
   authors: "H Tsutsui, CM Ho"
   venue: "Mechanics Research Communications"
   year: "2009"
+  month: 11
+  date: "2008-11-14"
   volume: "36" 
   page: "92-103"
   doi: "10.1016/j.mechrescom.2008.08.006"
@@ -283,6 +344,8 @@
   authors: "KK Nomura, H Tsutsui, D Mahoney, JW Rottman"
   venue: "Journal of Fluid Mechanics"
   year: "2006"
+  month: 4
+  date: "2006-04-06"
   volume: "553" 
   page: "283-322"
   doi: "10.1017/S0022112006008883"
