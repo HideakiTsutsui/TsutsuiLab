@@ -1,5 +1,5 @@
 ---
-title: "12/17/2025 Paper published in Langmuir"
+title: "Paper published in Langmuir (12/17/2025)"
 date: 2025-12-17
 layout: single
 categories: [publication]
