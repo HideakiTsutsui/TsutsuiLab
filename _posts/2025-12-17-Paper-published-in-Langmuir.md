@@ -1,5 +1,5 @@
 ---
-title: "Paper accepted for Advances in Sample Preparation"
+title: "Paper published in Langmuir"
 date: 2025-12-17
 layout: single
 categories: [publication]
