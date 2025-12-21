@@ -1,5 +1,5 @@
 ---
-title: "Paper accepted for Advances in Sample Preparation"
+title: "07/10/2025 Paper accepted for Advances in Sample Preparation"
 date: 2025-07-10
 layout: single
 categories: [publication]
