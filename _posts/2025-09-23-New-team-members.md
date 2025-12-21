@@ -1,5 +1,5 @@
 ---
-title: "New team members"
+title: "09/23/2025 New team members"
 date: 2025-09-23
 layout: single
 categories: [team]
