@@ -36,11 +36,11 @@
   venue: "SLAS technology (in press)"
   year: "2026"
   month: 0
-  date: "2026-01-01"
+  date: "2026-01-30"
   volume: "" 
   page: ""
-  doi: "10.1101/2024.11.09.622765"
-  url: "https://doi.10.1101/2024.11.09.622765"
+  doi: "10.1016/j.slast.2026.100398"
+  url: "https://doi.org/10.1016/j.slast.2026.100398"
 
 - title: "Quick plant sample preparation methods using a micro-homogenizer for the detection of multiple citrus pathogens"
   authors: "CW Liu, S Bodaghi, G Vidalakis, H Tsutsui"
