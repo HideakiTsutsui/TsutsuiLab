@@ -1,14 +1,14 @@
 - title: "Paper-based microfluidic devices for low-cost medical and agricultural diagnostics"
   summary: "Paper is an economical and ubiquitous material that is suitable for developing simple diagnostic tests (e.g., litmus test and pregnancy test) for applications in both developed and developing countries. Currently, however, its use is mostly limited to qualitative detection of a single target analyte. Our goal is to expand the performance of paper-based microfluidic devices by understanding fundamental fluid transport, inventing novel device designs, and improving the limit of detection, ultimately providing affordable diagnostic solutions to people in resource-limited areas."
   image: ../assets/images/research/PaperMicrofluidics.jpg
-  url: /projects/#portable-pathogen-detection
+  url: /projects/#paper-based-microfluidics
 
 - title: "Injectable chromatic nanosensors for in vivo detection"
   summary: "The goal of this research direction is to develop low-cost in vivo sensors that are integrated with food crop plant leaves. If realized, expected advantages of the proposed technology over existing sensors or the paper-based tests include elimination of extensive sample preparation steps (e.g., trimming of plant materials, extraction of nucleotides, proteins, or other target molecules) that are required for in vitro approaches and significant reduction in cost per test due to the elimination of such steps and the sensor substrates. Accordingly, such injectable nanosensors could find widespread use in resource-limited settings. Toward this goal, we employ photo-crosslinked polydiacetylenes (PDAs) that are responsive to external stimuli and exhibit a blue-to-red transition visible to the naked eye. By conjugating single-stranded DNA aptamers or antibodies, we synthesized PDA sensors that can selectively detect agriculturally relevant micronutrients and bacterial pathogens."
   image: ../assets/images/research/ChromaticSensor.jpg
-  url: /projects/#wastewater-surveillance
+  url: /projects/#injectable-nanosensor
 
 - title: "Portable nucleic acid extraction for food crops"
   summary: "Whereas we strive to develop novel biosensors and sensing mechanisms, we also acknowledge critical importance of sample preparation steps on downstream sending and detection outcomes. If samples were not properly prepared, even the best sensor available would fail to detect he target analyte. Quantitative polymerase chain reaction (qPCR) is the gold standard for the detection of many pathogens affecting food crops. However, extracting laboratory-grade nucleic acids from plant samples is challenging due to the robust cell walls. We are developing tools for portable nucleic acid extraction of food crops in the field for on-site pathogen detection."
   image: ../assets/images/research/SamplePreparation.jpg
-  url: /projects/#wastewater-surveillance
+  url: /projects/#portable-sample-preparation
