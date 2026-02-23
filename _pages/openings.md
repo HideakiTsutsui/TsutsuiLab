@@ -2,6 +2,7 @@
 title: "Openings"
 permalink: /openings/
 layout: single
+classes: wide
 ---
 
 **For Postdoctoral Researchers**
