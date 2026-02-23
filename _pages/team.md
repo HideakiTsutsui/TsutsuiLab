@@ -1,6 +1,7 @@
 ---
 title: "Our Team"
 layout: single
+classes: wide
 permalink: /team/
 ---
 
