@@ -1,3 +1,22 @@
+- year: 2025
+  events:
+    - title: "2025 LREC Citrus Fruit Display & Tasting, December 5, 2025"
+      images:
+        - path: ../assets/images/events/2025/FruitDisplay2025a.jpg
+          caption: ""
+        - path: ../assets/images/events/2025/FruitDisplay2025b.jpg
+          caption: ""
+        - path: ../assets/images/events/2025/FruitDisplay2025c.jpg
+          caption: ""
+        - path: ../assets/images/events/2025/FruitDisplay2025d.jpg
+          caption: ""
+    - title: "2025 UCR Homecoming, November 8, 2025"
+      images:
+        - path: ../assets/images/events/2025/HomeComing2025a.jpg
+          caption: ""
+        - path: ../assets/images/events/2025/HomeComing2025b.jpg
+          caption: ""
+
 - year: 2024
   events:
     - title: "2024 Ph.D. Hooding Ceremony, June 1, 2024"
