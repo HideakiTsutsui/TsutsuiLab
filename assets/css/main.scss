@@ -3,6 +3,11 @@
 search: false
 ---
 
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
 /* Widen single-page content area */
 .page {
   width: 100% !important;
@@ -16,8 +21,3 @@ search: false
 .page__content {
   max-width: 100% !important;
 }
-
-@charset "utf-8";
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
