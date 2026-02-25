@@ -1,7 +1,7 @@
 ---
 title: "Research"
 layout: single
-classes: single
+classes: wide
 permalink: /research/
 ---
 
