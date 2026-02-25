@@ -38,15 +38,13 @@ permalink: /photos/
 }
 </style>
 
-## Team Photo Archive
-
 {% assign sorted_photos = site.data.photos | sort: "year" | reverse %}
 
 {% for year_group in sorted_photos %}
-### {{ year_group.year }}
+## {{ year_group.year }}
 
 {% for event in year_group.events %}
-#### {{ event.title }}
+### {{ event.title }}
 
 <div class="gallery-grid">
   {% for img in event.images %}
