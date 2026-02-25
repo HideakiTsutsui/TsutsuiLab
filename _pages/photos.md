@@ -8,11 +8,17 @@ permalink: /photos/
 <style>
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: 1fr; /* mobile default */
   gap: 1.5rem;
   margin-bottom: 2rem;
 }
 
+@media (min-width: 768px) {
+  .gallery-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+  
 .gallery-grid figure {
   margin: 0;
   text-align: center;
