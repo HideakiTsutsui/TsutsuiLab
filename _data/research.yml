@@ -9,6 +9,6 @@
   url: /projects/#injectable-nanosensor
 
 - title: "Portable nucleic acid extraction for food crops"
-  summary: "Whereas we strive to develop novel biosensors and sensing mechanisms, we also acknowledge critical importance of sample preparation steps on downstream sending and detection outcomes. If samples were not properly prepared, even the best sensor available would fail to detect he target analyte. Quantitative polymerase chain reaction (qPCR) is the gold standard for the detection of many pathogens affecting food crops. However, extracting laboratory-grade nucleic acids from plant samples is challenging due to the robust cell walls. We are developing tools for portable nucleic acid extraction of food crops in the field for on-site pathogen detection."
+  summary: "Whereas we strive to develop novel biosensors and sensing mechanisms, we also acknowledge critical importance of sample preparation steps on downstream sensing and detection outcomes. If samples were not properly prepared, even the best sensor available would fail to detect the target analyte. Quantitative polymerase chain reaction (qPCR) is the gold standard for the detection of many pathogens affecting food crops. However, extracting laboratory-grade nucleic acids from plant samples is challenging due to the robust cell walls. We are developing tools for portable nucleic acid extraction of food crops in the field for on-site pathogen detection."
   image: ../assets/images/research/SamplePreparation.jpg
   url: /projects/#portable-sample-preparation
